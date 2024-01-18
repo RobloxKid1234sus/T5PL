@@ -1,8 +1,7 @@
 [
     {
         "name": "XXL Pack",
-        "levels": ["cold_sweat", "xo", "aftercatabath"],
+        "levels": ["marathon", "ragnarok", "aftercatabath"],
         "colour": "#cea66c"
-    },
-
+    }
 ]
